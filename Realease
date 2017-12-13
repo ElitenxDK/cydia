@@ -1,1 +1,9 @@
-
+Origin: Eliten's repo
+Label: Eliten's repo
+Suite: label
+Version: 1.0
+Codename: Tweak bitch
+Architectures: Iphoneos-arm
+Components: main
+Description: Eliten's repo
+MD5Sum:
